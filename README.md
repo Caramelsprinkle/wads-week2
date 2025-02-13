@@ -19,3 +19,11 @@ Start by building basic shelter, then dig for ore and other resources. Discover 
 - Journey Mode
 - Expert Mode
 - Master Mode
+
+
+
+# Plants
+*For trees growing all across a Terraria world, see Trees.*
+Plants are found all across a Terraria world, and may grow from certain block types given various conditions. Most can be harvested for use, and may additionally drop seeds for replanting, such as Jungle grass and Jungle grass seeds. Different biomes generally have distinct plant life.
+
+Plants randomly grow overtime. They also have different growth speed in different layers. See below for details.
