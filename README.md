@@ -46,3 +46,10 @@ Your character's name will display when logging into a world, sending messages i
 You can choose different character difficulty options: Journey, Classic (also known as Softcore), Mediumcore, and Hardcore. Note: On Nintendo 3DS version, all players are in Classic mode; there is no difficulty setting.
 
 The character difficulty setting determines what happens when the character dies -- it does not affect any other aspects of gameplay, including how hard the enemies will be.
+
+- Journey Mode gives the player the ability to "research" items and access to various cheat options, like a limited Creative mode. Journey characters can access the cheat menu by pressing C, allowing them to enable Godmode, duplicate items, set the time and weather, Increase or Decrease enemy spawning or Stop Enemy Spawning entirely, etc. Journey characters can also change the difficulty of their world on the fly if they find the current difficulty too hard or easy, and start with an improved set of starter tools and items. However, Journey characters can only enter Journey Mode worlds, including playing in multiplayer.
+
+- - On Console version Console and Mobile version Mobile, the cheat menu is instead located in the pause menu, in the Journey tab. Research and Duplication have their own tabs in the inventory, similar to things such as Equipment or Chests.
+- Classic, or Softcore, means that you will drop some of your coins upon death. Depending on world difficulty, you may drop half, 3/4, or all of your coins. Lost coins can be picked up by returning to your death location, but you may have to defeat enemies to get them back.
+- Mediumcore means that you will drop every item you are carrying upon death. Dropped items will be permanently lost if you leave the world before recollecting them, and some items can be destroyed by Lava.
+- Hardcore means that you have only 1 life, like in Minecraft; if you die, the character file is permanently deleted. Note: Hardcore is not the same thing as Hardmode, which is a game progression term used to indicate a world is post-Wall of Flesh.
