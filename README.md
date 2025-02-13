@@ -23,6 +23,8 @@ Start by building basic shelter, then dig for ore and other resources. Discover 
 - Expert Mode
 - Master Mode
 
+---
+
 # Guide: Getting started
 Welcome to Terraria!
 
@@ -53,3 +55,11 @@ The character difficulty setting determines what happens when the character dies
 - Classic, or Softcore, means that you will drop some of your coins upon death. Depending on world difficulty, you may drop half, 3/4, or all of your coins. Lost coins can be picked up by returning to your death location, but you may have to defeat enemies to get them back.
 - Mediumcore means that you will drop every item you are carrying upon death. Dropped items will be permanently lost if you leave the world before recollecting them, and some items can be destroyed by Lava.
 - Hardcore means that you have only 1 life, like in Minecraft; if you die, the character file is permanently deleted. Note: Hardcore is not the same thing as Hardmode, which is a game progression term used to indicate a world is post-Wall of Flesh.
+
+---
+
+# Plants
+*For trees growing all across a Terraria world, see Trees.*
+Plants are found all across a Terraria world, and may grow from certain block types given various conditions. Most can be harvested for use, and may additionally drop seeds for replanting, such as Jungle grass and Jungle grass seeds. Different biomes generally have distinct plant life.
+
+Plants randomly grow overtime. They also have different growth speed in different layers. See below for details.
