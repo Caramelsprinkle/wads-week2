@@ -1,3 +1,6 @@
+# Welcome to the **Official Terraria Wiki**,
+# the comprehensive reference written and maintained by the players.
+
 # The Game
 Terraria is a land of adventure! A land of mystery! A land that's yours to shape, defend, and enjoy. Your options in Terraria are limitless. Are you an action gamer with an itchy trigger finger? A master builder? A collector? An explorer? There's something for everyone.
 
